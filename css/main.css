@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    max-width:375px!important;
+    margin:0 auto!important;
+}
+section{
+    background-color: lightblue;
+}
+.container{
+    padding-top:67px;
+}
+h2{
+    padding-top:33px;
+    font-weight: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    color:#707070;
+    padding-top: 33px;
+
+}
+.share{
+    color:#6A73E2;
+}
+.money{
+    color:#FA578E;
+}
+
+.l
