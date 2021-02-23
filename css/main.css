@@ -4,7 +4,6 @@
 }
 section{
     margin:0 auto!important;
-    overflow: hidden;
     max-width:375px!important;
     max-height: 812px!important;
 
@@ -16,6 +15,7 @@ section{
     padding-top:37px;
     width:100%;
     display: flex;
+    padding-left:20px;
     justify-content: center;
     align-items: center;
 }
@@ -284,4 +284,31 @@ h3{
 .carousel__indicator.current-slide {
     background:#FA578E;
 
+}
+.drop_shadow{
+    width:500%;
+    border-radius: 0px 0px 200px 200px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 1px 10px #77777777;
+  
+}
+
+.icon{
+    margin-top:5%;
+    font-size: 90px;
+}
+
+.icons{
+    margin-top:15%;
+    font-size: 60px;
+}
+.request_a{
+    text-decoration: none!important;
+    
+}
+
+.request_a h6{
+    padding:10px!important;
+    
 }
